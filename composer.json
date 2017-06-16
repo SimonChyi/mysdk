@@ -1,0 +1,8 @@
+{
+    "name": "mysdk/mysdk",
+    "description": "hi",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
