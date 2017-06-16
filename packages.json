@@ -1,0 +1,6 @@
+name": "mysdk/mysdk",
+"version": "1.0.2",
+"dist": {
+        "url": "https://github.com/SimonChyi/mysdk/archive/1.0.2.zip",
+        "type": "zip"
+ }

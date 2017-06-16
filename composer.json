@@ -5,8 +5,10 @@
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {},
-"dist": {
-        "url": "https://github.com/SimonChyi/mysdk/archive/1.0.2.zip",
-        "type": "zip"
- }
+	"repositories": [
+            {
+                "type": "composer",
+                "url": "packagist.org"
+            }
+        ]  
 }
